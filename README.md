@@ -77,11 +77,3 @@ This project involves the analysis of sales data to identify key trends and insi
 6. Conclusion
    - Married women aged 26-35 from UP, Maharashtra, and Karnataka working in IT, Healthcare, and Aviation are more likely to buy products from Food, Clothing, and Electronics categories.
 
-## Screenshot
-
-
-
-
-![Screenshot (196)](https://github.com/Srividhya09/DataAnalysis/assets/170795002/9819c50c-d57a-4c6d-b1da-8307e4a4374f)
-
-
