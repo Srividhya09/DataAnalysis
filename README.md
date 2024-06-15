@@ -84,4 +84,4 @@ This project involves the analysis of sales data to identify key trends and insi
 
 ![Screenshot (196)](https://github.com/Srividhya09/DataAnalysis/assets/170795002/9819c50c-d57a-4c6d-b1da-8307e4a4374f)
 
-Make sure to replace `path/to/screenshot.png` with the actual path to your screenshot image file in the repository. Also, save the provided Python analysis code in a file named `analysis.py` within the repository.
+
